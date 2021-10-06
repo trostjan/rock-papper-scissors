@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://trostjan.github.io/easybank-landing-page/]
+- Live Site URL: [https://trostjan.github.io/rock-papper-scissors/]
 
 ## My process
 
